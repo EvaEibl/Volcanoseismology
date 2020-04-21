@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<q:quakeml xmlns:q="http://quakeml.org/xmlns/quakeml/1.2" xmlns:iris="http://service.iris.edu/fdsnws/event/1/" xmlns="http://quakeml.org/xmlns/bed/1.2" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://quakeml.org/schema/xsd http://quakeml.org/schema/xsd/QuakeML-1.2.xsd">
+<eventParameters publicID="smi:service.iris.edu/fdsnws/event/1/query">
+<event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3279409">
+<type>earthquake</type>
+<description xmlns:iris="http://service.iris.edu/fdsnws/event/1/" iris:FEcode="229">
+<type>Flinn-Engdahl region</type>
+<text>OFF EAST COAST OF HONSHU, JAPAN</text>
+</description><preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176444203</preferredMagnitudeID>
+<preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=18196928</preferredOriginID>
+<origin xmlns:iris="http://service.iris.edu/fdsnws/event/1/" publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=18196928" iris:contributorOriginId="02227183" iris:contributor="ISC" iris:contributorEventId="16304073" iris:catalog="ISC">
+<time>
+<value>2011-03-11T06:25:50.740</value>
+</time>
+<creationInfo>
+<author>ISC</author>
+</creationInfo>
+<latitude>
+<value>38.051</value>
+</latitude>
+<longitude>
+<value>144.6297</value>
+</longitude>
+<depth>
+<value>19800.0</value>
+</depth>
+</origin>
+<magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176444203">
+<mag>
+<value>7.6</value>
+</mag>
+<type>MW</type><creationInfo>
+<author>GCMT</author>
+</creationInfo>
+</magnitude>
+</event>
+<event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3279489">
+<type>earthquake</type>
+<description xmlns:iris="http://service.iris.edu/fdsnws/event/1/" iris:FEcode="228">
+<type>Flinn-Engdahl region</type>
+<text>NEAR EAST COAST OF HONSHU, JAPAN</text>
+</description><preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176444131</preferredMagnitudeID>
+<preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=18196823</preferredOriginID>
+<origin xmlns:iris="http://service.iris.edu/fdsnws/event/1/" publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=18196823" iris:contributorOriginId="02227176" iris:contributor="ISC" iris:contributorEventId="602707261" iris:catalog="ISC">
+<time>
+<value>2011-03-11T06:15:37.570</value>
+</time>
+<creationInfo>
+<author>ISC</author>
+</creationInfo>
+<latitude>
+<value>36.2274</value>
+</latitude>
+<longitude>
+<value>141.088</value>
+</longitude>
+<depth>
+<value>25400.0</value>
+</depth>
+</origin>
+<magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176444131">
+<mag>
+<value>7.9</value>
+</mag>
+<type>MW</type><creationInfo>
+<author>GCMT</author>
+</creationInfo>
+</magnitude>
+</event>
+<event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3279407">
+<type>earthquake</type>
+<description xmlns:iris="http://service.iris.edu/fdsnws/event/1/" iris:FEcode="228">
+<type>Flinn-Engdahl region</type>
+<text>NEAR EAST COAST OF HONSHU, JAPAN</text>
+</description><preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176443936</preferredMagnitudeID>
+<preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=18196524</preferredOriginID>
+<origin xmlns:iris="http://service.iris.edu/fdsnws/event/1/" publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=18196524" iris:contributorOriginId="02227159" iris:contributor="ISC" iris:contributorEventId="16461282" iris:catalog="ISC">
+<time>
+<value>2011-03-11T05:46:23.200</value>
+</time>
+<creationInfo>
+<author>ISC</author>
+</creationInfo>
+<latitude>
+<value>38.2963</value>
+</latitude>
+<longitude>
+<value>142.498</value>
+</longitude>
+<depth>
+<value>19700.0</value>
+</depth>
+</origin>
+<magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176443936">
+<mag>
+<value>9.1</value>
+</mag>
+<type>MW</type><creationInfo>
+<author>GCMT</author>
+</creationInfo>
+</magnitude>
+</event>
+</eventParameters>
+</q:quakeml>

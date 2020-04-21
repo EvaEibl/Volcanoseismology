@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+__pycache__
+.vscode
+
+# ignore solution (exercises)
+*-solution.ipynb
+solution_data/
+
+stuff/

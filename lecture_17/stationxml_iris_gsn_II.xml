@@ -1,0 +1,640 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FDSNStationXML xmlns="http://www.fdsn.org/xml/station/1" schemaVersion="1.1">
+  <Source>IRIS-DMC</Source>
+  <Sender>IRIS-DMC</Sender>
+  <Module>IRIS WEB SERVICE: fdsnws-station | version: 1.1.44</Module>
+  <ModuleURI>http://service.iris.edu/fdsnws/station/1/query?network=II</ModuleURI>
+  <Created>2020-03-10T15:31:52.000000Z</Created>
+  <Network code="II" startDate="1986-01-01T00:00:00.000000Z" restrictedStatus="open">
+    <Description>Global Seismograph Network - IRIS/IDA (GSN)</Description>
+    <TotalNumberStations>57</TotalNumberStations>
+    <SelectedNumberStations>57</SelectedNumberStations>
+    <Station code="AAK" startDate="1990-10-12T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">42.6375</Latitude>
+      <Longitude unit="DEGREES">74.4942</Longitude>
+      <Elevation>1633.1</Elevation>
+      <Site>
+        <Name>Ala Archa, Kyrgyzstan</Name>
+      </Site>
+      <CreationDate>1990-10-12T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>326</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="ABKT" startDate="1993-04-25T00:00:00.000000Z" endDate="2013-12-30T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">37.9304</Latitude>
+      <Longitude unit="DEGREES">58.1189</Longitude>
+      <Elevation>678.0</Elevation>
+      <Site>
+        <Name>Alibek, Turkmenistan</Name>
+      </Site>
+      <CreationDate>1993-04-25T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>97</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="ABPO" startDate="2007-04-04T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-19.018</Latitude>
+      <Longitude unit="DEGREES">47.229</Longitude>
+      <Elevation>1528.0</Elevation>
+      <Site>
+        <Name>Ambohimpanompo, Madagascar</Name>
+      </Site>
+      <CreationDate>2007-04-04T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>147</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="ALE" startDate="1990-02-19T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">82.5033</Latitude>
+      <Longitude unit="DEGREES">-62.35</Longitude>
+      <Elevation>60.0</Elevation>
+      <Site>
+        <Name>Alert, NU, Canada</Name>
+      </Site>
+      <CreationDate>1990-02-19T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>191</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="ARTI" startDate="2018-09-09T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">56.3879</Latitude>
+      <Longitude unit="DEGREES">58.3849</Longitude>
+      <Elevation>320.0</Elevation>
+      <Site>
+        <Name>Arti, Russia</Name>
+      </Site>
+      <CreationDate>2018-09-09T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>29</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="ARU" startDate="2009-09-28T00:00:00.000000Z" endDate="2018-09-08T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">56.4293</Latitude>
+      <Longitude unit="DEGREES">58.5615</Longitude>
+      <Elevation>260.0</Elevation>
+      <Site>
+        <Name>Arti, Russia</Name>
+      </Site>
+      <CreationDate>2009-09-28T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>51</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="ARU" startDate="1988-09-14T00:00:00.000000Z" endDate="2009-09-27T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">56.4302</Latitude>
+      <Longitude unit="DEGREES">58.5625</Longitude>
+      <Elevation>250.0</Elevation>
+      <Site>
+        <Name>Arti, Russia</Name>
+      </Site>
+      <CreationDate>1988-09-14T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>100</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="ASCN" startDate="1994-10-01T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-7.9327</Latitude>
+      <Longitude unit="DEGREES">-14.3601</Longitude>
+      <Elevation>173.0</Elevation>
+      <Site>
+        <Name>Butt Crater, Ascension Island</Name>
+      </Site>
+      <CreationDate>1994-10-01T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>221</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="BFO" startDate="1996-05-29T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">48.3301</Latitude>
+      <Longitude unit="DEGREES">8.3296</Longitude>
+      <Elevation>638.0</Elevation>
+      <Site>
+        <Name>Black Forest Observatory, Schiltach, Germany</Name>
+      </Site>
+      <CreationDate>1996-05-29T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>138</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="BORG" startDate="1994-07-30T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">64.7474</Latitude>
+      <Longitude unit="DEGREES">-21.3268</Longitude>
+      <Elevation>110.0</Elevation>
+      <Site>
+        <Name>Borgarfjordur, Asbjarnarstadir, Iceland</Name>
+      </Site>
+      <CreationDate>1994-07-30T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>228</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="BORK" startDate="2019-08-22T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">53.0461</Latitude>
+      <Longitude unit="DEGREES">70.3184</Longitude>
+      <Elevation>334.0</Elevation>
+      <Site>
+        <Name>Burabay, Kazakhstan</Name>
+      </Site>
+      <CreationDate>2019-08-22T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>36</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="BRVK" startDate="1994-09-01T00:00:00.000000Z" endDate="2019-08-21T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">53.0581</Latitude>
+      <Longitude unit="DEGREES">70.2828</Longitude>
+      <Elevation>330.0</Elevation>
+      <Site>
+        <Name>Borovoye, Kazakhstan</Name>
+      </Site>
+      <CreationDate>1994-09-01T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>181</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="CMLA" startDate="1996-03-10T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">37.7637</Latitude>
+      <Longitude unit="DEGREES">-25.5243</Longitude>
+      <Elevation>429.0</Elevation>
+      <Site>
+        <Name>Cha de Macela, Sao Miguel Island, Azores</Name>
+      </Site>
+      <CreationDate>1996-03-10T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>292</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="COCO" startDate="1996-12-15T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-12.1901</Latitude>
+      <Longitude unit="DEGREES">96.8349</Longitude>
+      <Elevation>1.0</Elevation>
+      <Site>
+        <Name>West Island, Cocos (Keeling) Islands</Name>
+      </Site>
+      <CreationDate>1996-12-15T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>177</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="DGAR" startDate="2004-01-22T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-7.4121</Latitude>
+      <Longitude unit="DEGREES">72.4525</Longitude>
+      <Elevation>1.0</Elevation>
+      <Site>
+        <Name>Diego Garcia, Chagos Islands, Indian Ocean</Name>
+      </Site>
+      <CreationDate>2004-01-22T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>174</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="EFI" startDate="1996-02-16T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-51.6753</Latitude>
+      <Longitude unit="DEGREES">-58.0637</Longitude>
+      <Elevation>110.0</Elevation>
+      <Site>
+        <Name>Mount Kent, East Falkland Island</Name>
+      </Site>
+      <CreationDate>1996-02-16T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>185</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="ERM" startDate="1990-05-21T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">42.015</Latitude>
+      <Longitude unit="DEGREES">143.1572</Longitude>
+      <Elevation>40.0</Elevation>
+      <Site>
+        <Name>Erimo, Hokkaido Island, Japan</Name>
+      </Site>
+      <CreationDate>1990-05-21T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>157</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="ESK" startDate="1987-11-13T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">55.3167</Latitude>
+      <Longitude unit="DEGREES">-3.205</Longitude>
+      <Elevation>242.0</Elevation>
+      <Site>
+        <Name>Eskdalemuir, Scotland, UK</Name>
+      </Site>
+      <CreationDate>1987-11-13T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>125</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="FFC" startDate="1993-08-28T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">54.725</Latitude>
+      <Longitude unit="DEGREES">-101.9783</Longitude>
+      <Elevation>338.0</Elevation>
+      <Site>
+        <Name>Flin Flon, Canada</Name>
+      </Site>
+      <CreationDate>1993-08-28T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>187</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="GAR" startDate="1988-09-14T00:00:00.000000Z" endDate="1992-05-28T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">39.0052</Latitude>
+      <Longitude unit="DEGREES">70.3328</Longitude>
+      <Elevation>1300.0</Elevation>
+      <Site>
+        <Name>Garm, Tajikistan</Name>
+      </Site>
+      <CreationDate>1988-09-14T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>31</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="HOPE" startDate="1996-12-10T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-54.2836</Latitude>
+      <Longitude unit="DEGREES">-36.4879</Longitude>
+      <Elevation>20.0</Elevation>
+      <Site>
+        <Name>Hope Point, South Georgia Island</Name>
+      </Site>
+      <CreationDate>1996-12-10T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>186</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="IASL" startDate="2013-01-01T00:00:00.000000Z" endDate="2016-02-11T20:13:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">34.946201</Latitude>
+      <Longitude unit="DEGREES">-106.456703</Longitude>
+      <Elevation>1740.0</Elevation>
+      <Site>
+        <Name>Albuquerque Seismological Laboratory, N.Mex.</Name>
+      </Site>
+      <CreationDate>2013-01-01T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>9</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="IBFO" startDate="2011-04-10T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">48.331902</Latitude>
+      <Longitude unit="DEGREES">8.3311</Longitude>
+      <Elevation>589.0</Elevation>
+      <Site>
+        <Name>Black Forest Observatory, Schiltach, Germany</Name>
+      </Site>
+      <CreationDate>2011-04-10T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>2</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="JTS" startDate="1995-04-23T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">10.2908</Latitude>
+      <Longitude unit="DEGREES">-84.9525</Longitude>
+      <Elevation>340.0</Elevation>
+      <Site>
+        <Name>Las Juntas de Abangares, Costa Rica</Name>
+      </Site>
+      <CreationDate>1995-04-23T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>472</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="KAPI" startDate="1999-02-06T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-5.0142</Latitude>
+      <Longitude unit="DEGREES">119.7517</Longitude>
+      <Elevation>300.0</Elevation>
+      <Site>
+        <Name>Kappang, Sulawesi, Indonesia</Name>
+      </Site>
+      <CreationDate>1999-02-06T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>231</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="KDAK" startDate="1997-06-09T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">57.7828</Latitude>
+      <Longitude unit="DEGREES">-152.5835</Longitude>
+      <Elevation>152.0</Elevation>
+      <Site>
+        <Name>Kodiak Island, Alaska, USA</Name>
+      </Site>
+      <CreationDate>1997-06-09T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>224</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="KIV" startDate="1994-02-01T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">43.9553</Latitude>
+      <Longitude unit="DEGREES">42.6863</Longitude>
+      <Elevation>1054.0</Elevation>
+      <Site>
+        <Name>Kislovodsk, Russia</Name>
+      </Site>
+      <CreationDate>1994-02-01T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>161</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="KIV" startDate="1988-09-14T00:00:00.000000Z" endDate="1994-01-31T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">43.9562</Latitude>
+      <Longitude unit="DEGREES">42.6888</Longitude>
+      <Elevation>1210.0</Elevation>
+      <Site>
+        <Name>Kislovodsk, Russia</Name>
+      </Site>
+      <CreationDate>1988-09-14T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>21</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="KURK" startDate="1995-03-26T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">50.7154</Latitude>
+      <Longitude unit="DEGREES">78.6202</Longitude>
+      <Elevation>184.0</Elevation>
+      <Site>
+        <Name>Kurchatov, Kazakhstan</Name>
+      </Site>
+      <CreationDate>1995-03-26T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>215</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="KWAJ" startDate="1999-06-22T00:00:00.000000Z" endDate="2017-08-08T21:08:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">8.8019</Latitude>
+      <Longitude unit="DEGREES">167.613</Longitude>
+      <Elevation>0.0</Elevation>
+      <Site>
+        <Name>Kwajalein Atoll, Pacific Ocean</Name>
+      </Site>
+      <CreationDate>1999-06-22T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>100</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="KWJN" startDate="2017-07-29T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">9.2873</Latitude>
+      <Longitude unit="DEGREES">167.5369</Longitude>
+      <Elevation>0.0</Elevation>
+      <Site>
+        <Name>Gagan, Kwajalein Atoll, Marshall Islands</Name>
+      </Site>
+      <CreationDate>2017-07-29T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>54</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="LVZ" startDate="1992-12-01T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">67.8979</Latitude>
+      <Longitude unit="DEGREES">34.6514</Longitude>
+      <Elevation>630.0</Elevation>
+      <Site>
+        <Name>Lovozero, Russia</Name>
+      </Site>
+      <CreationDate>1992-12-01T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>142</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="MBAR" startDate="1999-09-22T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-0.6019</Latitude>
+      <Longitude unit="DEGREES">30.7382</Longitude>
+      <Elevation>1390.0</Elevation>
+      <Site>
+        <Name>Mbarara, Uganda</Name>
+      </Site>
+      <CreationDate>1999-09-22T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>214</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="MSEY" startDate="1995-05-15T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-4.6737</Latitude>
+      <Longitude unit="DEGREES">55.4792</Longitude>
+      <Elevation>475.0</Elevation>
+      <Site>
+        <Name>Mahe, Seychelles</Name>
+      </Site>
+      <CreationDate>1995-05-15T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>160</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="MSVF" startDate="1994-05-24T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-17.7448</Latitude>
+      <Longitude unit="DEGREES">178.0528</Longitude>
+      <Elevation>801.1</Elevation>
+      <Site>
+        <Name>Monasavu, Fiji</Name>
+      </Site>
+      <CreationDate>1994-05-24T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>182</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="NIL" startDate="1994-12-18T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">33.6506</Latitude>
+      <Longitude unit="DEGREES">73.2686</Longitude>
+      <Elevation>629.0</Elevation>
+      <Site>
+        <Name>Nilore, Pakistan</Name>
+      </Site>
+      <CreationDate>1994-12-18T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>162</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="NNA" startDate="1988-06-22T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-11.9875</Latitude>
+      <Longitude unit="DEGREES">-76.8422</Longitude>
+      <Elevation>575.0</Elevation>
+      <Site>
+        <Name>Nana, Peru</Name>
+      </Site>
+      <CreationDate>1988-06-22T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>187</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="NRIL" startDate="1992-12-15T00:00:00.000000Z" endDate="1999-10-13T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">69.5049</Latitude>
+      <Longitude unit="DEGREES">88.4414</Longitude>
+      <Elevation>92.0</Elevation>
+      <Site>
+        <Name>Norilsk, Russia</Name>
+      </Site>
+      <CreationDate>1992-12-15T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>24</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="NVS" startDate="1992-07-15T00:00:00.000000Z" endDate="1994-02-15T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">54.8404</Latitude>
+      <Longitude unit="DEGREES">83.2346</Longitude>
+      <Elevation>150.0</Elevation>
+      <Site>
+        <Name>Novosibirsk, Russia</Name>
+      </Site>
+      <CreationDate>1992-07-15T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>24</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="OBN" startDate="1988-09-14T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">55.1146</Latitude>
+      <Longitude unit="DEGREES">36.5674</Longitude>
+      <Elevation>160.0</Elevation>
+      <Site>
+        <Name>Obninsk, Russia</Name>
+      </Site>
+      <CreationDate>1988-09-14T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>139</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="PALK" startDate="2000-08-22T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">7.2728</Latitude>
+      <Longitude unit="DEGREES">80.7022</Longitude>
+      <Elevation>460.0</Elevation>
+      <Site>
+        <Name>Pallekele, Sri Lanka</Name>
+      </Site>
+      <CreationDate>2000-08-22T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>359</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="PFO" startDate="2006-07-13T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">33.6107</Latitude>
+      <Longitude unit="DEGREES">-116.4555</Longitude>
+      <Elevation>1280.0</Elevation>
+      <Site>
+        <Name>Pinon Flat, California, USA</Name>
+      </Site>
+      <CreationDate>2006-07-13T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>296</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="PFO" startDate="1986-10-24T00:00:00.000000Z" endDate="2006-07-12T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">33.6092</Latitude>
+      <Longitude unit="DEGREES">-116.4553</Longitude>
+      <Elevation>1280.0</Elevation>
+      <Site>
+        <Name>Pinon Flat, California, USA</Name>
+      </Site>
+      <CreationDate>1986-10-24T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>283</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="RAYN" startDate="1996-01-01T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">23.5225</Latitude>
+      <Longitude unit="DEGREES">45.5032</Longitude>
+      <Elevation>631.0</Elevation>
+      <Site>
+        <Name>Ar Rayn, Saudi Arabia</Name>
+      </Site>
+      <CreationDate>1996-01-01T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>188</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="RPN" startDate="1987-06-15T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-27.1267</Latitude>
+      <Longitude unit="DEGREES">-109.3344</Longitude>
+      <Elevation>110.0</Elevation>
+      <Site>
+        <Name>Rapanui, Easter Island, Chile</Name>
+      </Site>
+      <CreationDate>1987-06-15T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>315</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="SACV" startDate="2000-05-29T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">14.9702</Latitude>
+      <Longitude unit="DEGREES">-23.6085</Longitude>
+      <Elevation>387.0</Elevation>
+      <Site>
+        <Name>Santiago Island, Cape Verde</Name>
+      </Site>
+      <CreationDate>2000-05-29T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>136</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="SHEL" startDate="1995-06-19T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-15.9594</Latitude>
+      <Longitude unit="DEGREES">-5.7455</Longitude>
+      <Elevation>537.0</Elevation>
+      <Site>
+        <Name>Horse Pasture, St. Helena Island</Name>
+      </Site>
+      <CreationDate>1995-06-19T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>116</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="SIMI" startDate="2016-10-06T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">38.6585</Latitude>
+      <Longitude unit="DEGREES">69.0083</Longitude>
+      <Elevation>1400.5</Elevation>
+      <Site>
+        <Name>Simiganj, Tajikistan</Name>
+      </Site>
+      <CreationDate>2016-10-06T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>20</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="SUR" startDate="1990-10-30T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-32.3797</Latitude>
+      <Longitude unit="DEGREES">20.8117</Longitude>
+      <Elevation>1770.0</Elevation>
+      <Site>
+        <Name>Sutherland, South Africa</Name>
+      </Site>
+      <CreationDate>1990-10-30T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>150</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="TAU" startDate="1994-01-17T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-42.9099</Latitude>
+      <Longitude unit="DEGREES">147.3204</Longitude>
+      <Elevation>132.0</Elevation>
+      <Site>
+        <Name>Hobart, Tasmania, Australia</Name>
+      </Site>
+      <CreationDate>1994-01-17T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>176</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="TLY" startDate="1990-10-12T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">51.6807</Latitude>
+      <Longitude unit="DEGREES">103.6438</Longitude>
+      <Elevation>579.0</Elevation>
+      <Site>
+        <Name>Talaya, Russia</Name>
+      </Site>
+      <CreationDate>1990-10-12T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>131</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="UOSS" startDate="2009-05-07T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">24.9453</Latitude>
+      <Longitude unit="DEGREES">56.2042</Longitude>
+      <Elevation>284.4</Elevation>
+      <Site>
+        <Name>Univ. of Sharjah, Sharjah, United Arab Emirates</Name>
+      </Site>
+      <CreationDate>2009-05-07T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>156</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="WRAB" startDate="1994-03-27T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-19.9336</Latitude>
+      <Longitude unit="DEGREES">134.36</Longitude>
+      <Elevation>366.0</Elevation>
+      <Site>
+        <Name>Tennant Creek, NT, Australia</Name>
+      </Site>
+      <CreationDate>1994-03-27T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>228</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="XBFO" startDate="2018-09-17T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">48.3301</Latitude>
+      <Longitude unit="DEGREES">8.3296</Longitude>
+      <Elevation>638.0</Elevation>
+      <Site>
+        <Name>Black Forest Observatory, Schiltach, Germany</Name>
+      </Site>
+      <CreationDate>2018-09-17T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>62</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="XPF" startDate="2006-01-01T00:00:00.000000Z" endDate="2007-06-26T17:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">33.6107</Latitude>
+      <Longitude unit="DEGREES">-116.4555</Longitude>
+      <Elevation>1280.0</Elevation>
+      <Site>
+        <Name>Pinon Flat, California, USA</Name>
+      </Site>
+      <CreationDate>2006-01-01T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>102</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="XPF" startDate="1993-12-15T00:00:00.000000Z" endDate="2005-12-31T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">33.6092</Latitude>
+      <Longitude unit="DEGREES">-116.4533</Longitude>
+      <Elevation>1280.0</Elevation>
+      <Site>
+        <Name>Pinon Flat, California, USA</Name>
+      </Site>
+      <CreationDate>1993-12-15T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>81</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="XPFO" startDate="2007-06-26T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">33.6107</Latitude>
+      <Longitude unit="DEGREES">-116.4555</Longitude>
+      <Elevation>1280.0</Elevation>
+      <Site>
+        <Name>Pinon Flat, California, USA</Name>
+      </Site>
+      <CreationDate>2007-06-26T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>910</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+  </Network>
+</FDSNStationXML>

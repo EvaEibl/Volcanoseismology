@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+ <FDSNStationXML xmlns="http://www.fdsn.org/xml/station/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:iris="http://www.fdsn.org/xml/station/1/iris" xsi:schemaLocation="http://www.fdsn.org/xml/station/1 http://www.fdsn.org/xml/station/fdsn-station-1.1.xsd" schemaVersion="1.1">
+  <Source>IRIS-DMC</Source>
+  <Sender>IRIS-DMC</Sender>
+  <Module>IRIS WEB SERVICE: fdsnws-station | version: 1.1.45</Module>
+  <ModuleURI>http://service.iris.edu/fdsnws/station/1/query?network=OE&amp;station=DAVA&amp;level=station</ModuleURI>
+  <Created>2020-04-13T16:10:55</Created>
+  <Network code="OE" startDate="1987-01-01T00:00:00" restrictedStatus="open">
+   <Description>Austrian Seismic Network ()</Description>
+   <TotalNumberStations>3</TotalNumberStations>
+   <SelectedNumberStations>1</SelectedNumberStations>
+   <Station code="DAVA" startDate="1999-06-25T00:00:00" restrictedStatus="open" iris:alternateNetworkCodes="_CE3RN,_FDSN-ALL,_REALTIME,.UNRESTRICTED">
+    <Latitude>47.286701</Latitude>
+    <Longitude>9.8803</Longitude>
+    <Elevation>1602.0</Elevation>
+    <Site>
+     <Name>Damuels, Vorarlberg, Austria</Name>
+    </Site>
+    <CreationDate>1999-06-25T00:00:00</CreationDate>
+    <TotalNumberChannels>14</TotalNumberChannels>
+    <SelectedNumberChannels>0</SelectedNumberChannels>
+   </Station>
+  </Network>
+ </FDSNStationXML>

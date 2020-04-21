@@ -1,0 +1,23 @@
+name: geopy
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7.3
+  - cartopy
+  - pip
+  - pip:
+    - numpy
+    - scipy
+    - matplotlib
+    - seaborn
+    - obspy
+    - jupyterlab
+
+    # Linux + MacOS only packages below #
+    # - pyqt5
+    # - pyrocko
+
+    # Optional package below #
+    - pylint # linting
+    - black # formatting
