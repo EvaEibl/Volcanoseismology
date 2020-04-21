@@ -11,6 +11,12 @@ See the Jupyter [Setup Notebook](setup.ipynb) to begin the course.
 
 **Note**: The course can be followed solely on GitHub. Only the **exercise_X** Notebooks require executing code and must therefore be run offline or use a Cloud Service such as https://colab.research.google.com to import and run the notebooks.
 
+## Follow on Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EvaEibl/Volcanoseismology/1.0)
+
+Here you can use and play with all notebooks.
+
 ## Google Colab Setup
 
 If you don't want to setup Python locally you can follow these steps:
