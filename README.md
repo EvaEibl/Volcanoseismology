@@ -13,7 +13,7 @@ See the Jupyter [Setup Notebook](setup.ipynb) to begin the course.
 
 ## Follow on Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EvaEibl/Volcanoseismology/1.0)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EvaEibl/Volcanoseismology/2.0)
 
 Here you can use and play with all notebooks.
 
