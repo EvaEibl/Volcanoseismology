@@ -1,7 +1,6 @@
 name: geopy
 channels:
   - defaults
-  - conda-forge
 dependencies:
   - python=3.7.3
   - cartopy
@@ -13,11 +12,11 @@ dependencies:
     - seaborn
     - obspy
     - jupyterlab
-
-    # Linux + MacOS only packages below #
-    # - pyqt5
-    # - pyrocko
-
+    - PyQt5
+    - pyyaml
+    - progressbar2
+    - requests
+    - pyrocko
     # Optional package below #
     - pylint # linting
     - black # formatting
